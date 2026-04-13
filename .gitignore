@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de caché e intermedios de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración del IDE (si llegaran a abrirlo en VSCode o PyCharm)
+.vscode/
+.idea/
+*.swp
+.DS_Store
